@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/root.iml" filepath="$PROJECT_DIR$/.idea_modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/root-build.iml" filepath="$PROJECT_DIR$/.idea_modules/root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/sprest-core.iml" filepath="$PROJECT_DIR$/.idea_modules/sprest-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/sprest-macros.iml" filepath="$PROJECT_DIR$/.idea_modules/sprest-macros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/sprest-reactivemongo.iml" filepath="$PROJECT_DIR$/.idea_modules/sprest-reactivemongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/sprest-slick.iml" filepath="$PROJECT_DIR$/.idea_modules/sprest-slick.iml" />
+    </modules>
+  </component>
+</project>
+

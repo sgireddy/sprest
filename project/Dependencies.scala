@@ -15,7 +15,7 @@ object Dependencies {
   def runtime(deps: ModuleID*): Seq[ModuleID] = deps map (_ % "runtime")
   def container(deps: ModuleID*): Seq[ModuleID] = deps map (_ % "container")
 
-  val sprayVersion = "1.2-20130822"
+  val sprayVersion = "1.2-20131011"
   def sprayModule(id: String) = "io.spray" % id % sprayVersion
 
   val akkaVersion = "2.2.1"
@@ -32,5 +32,5 @@ object Dependencies {
   val akkaActor = akkaModule("akka-actor")
   val akkaTestKit = akkaModule("akka-testkit")
   val slick = "com.typesafe.slick" %% "slick" % "1.0.0"
-  val reactiveMongo = "org.reactivemongo" %% "reactivemongo" % "0.9"
+  val reactiveMongo = "org.reactivemongo" %% "reactivemongo" % "0.10.0-SNAPSHOT"
 }
